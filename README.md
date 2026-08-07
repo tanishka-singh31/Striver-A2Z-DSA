@@ -9,3 +9,11 @@ A clean repository dedicated to tracking my daily problem-solving progress on **
 * **Automation:** Synced automatically via LeetHub v2
 
 *Taking it one step, one pattern, and one green checkmark at a time.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/tanishka-singh31/Striver-A2Z-DSA/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
