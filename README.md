@@ -17,5 +17,14 @@ A clean repository dedicated to tracking my daily problem-solving progress on **
 | ------- |
 | [0007-reverse-integer](https://github.com/tanishka-singh31/Striver-A2Z-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tanishka-singh31/Striver-A2Z-DSA/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/tanishka-singh31/Striver-A2Z-DSA/tree/master/0258-add-digits) |
 | [1134-armstrong-number](./1134-armstrong-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/tanishka-singh31/Striver-A2Z-DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/tanishka-singh31/Striver-A2Z-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
