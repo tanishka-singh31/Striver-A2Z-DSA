@@ -6,7 +6,7 @@ A clean repository dedicated to tracking my daily problem-solving progress on **
 
 * **Language:** C++
 * **Platform:** LeetCode
-* **Automation:** Synced automatically via LeetHub v2
+* **Automation:** Synced automatically via LeetHub v2 along with manual additions for premium problems.
 
 *Taking it one step, one pattern, and one green checkmark at a time.*
 
