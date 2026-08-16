@@ -32,4 +32,13 @@ A clean repository dedicated to tracking my daily problem-solving progress on **
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/tanishka-singh31/Striver-A2Z-DSA/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishka-singh31/Striver-A2Z-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishka-singh31/Striver-A2Z-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishka-singh31/Striver-A2Z-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
